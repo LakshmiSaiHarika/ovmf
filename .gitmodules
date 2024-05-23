@@ -37,4 +37,4 @@
 	url = https://github.com/ARMmbed/mbedtls
 [submodule "SecurityPkg/DeviceSecurity/SpdmLib/libspdm"]
 	path = SecurityPkg/DeviceSecurity/SpdmLib/libspdm
-	url = https://github.com/DMTF/libspdm.git
+	url = https://github.com/LakshmiSaiHarika/libspdm.git
